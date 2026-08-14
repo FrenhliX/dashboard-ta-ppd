@@ -1,0 +1,19 @@
+streamlit>=1.35
+pandas>=2.0
+plotly>=5.20
+
+# PENTING: pakai wheel CPU-only. Tanpa baris --extra-index-url di bawah, pip akan
+# menarik torch versi CUDA (~2GB+ dependency NVIDIA) yang sering membuat deploy
+# di Streamlit Community Cloud gagal / kehabisan resource.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.0
+transformers>=4.40
+
+# Untuk download checkpoint_best.pt otomatis dari Hugging Face Hub
+# (file >100MB tidak bisa disimpan di repo GitHub)
+huggingface_hub>=0.23
+
+# Opsional -- hanya jika suatu saat model BERTopic asli disimpan & ingin dimuat
+# (lihat models/README.md bagian 2 untuk kendala custom analyzer)
+# bertopic
+# sentence-transformers
