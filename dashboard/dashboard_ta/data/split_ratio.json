@@ -1,0 +1,5 @@
+[
+  {"rasio": "80:10:10", "data_latih": 26739, "data_validasi": 3343, "data_uji": 3343, "akurasi": 0.8974, "f1_sentimen": 0.8742, "f1_aspek": 0.8996, "avg_f1": 0.8869, "best_epoch": 8},
+  {"rasio": "70:15:15", "data_latih": 23397, "data_validasi": 5014, "data_uji": 5014, "akurasi": 0.8931, "f1_sentimen": 0.8682, "f1_aspek": 0.8952, "avg_f1": 0.8817, "best_epoch": 10},
+  {"rasio": "60:20:20", "data_latih": 20055, "data_validasi": 6685, "data_uji": 6685, "akurasi": 0.8947, "f1_sentimen": 0.8689, "f1_aspek": 0.8937, "avg_f1": 0.8813, "best_epoch": 9}
+]

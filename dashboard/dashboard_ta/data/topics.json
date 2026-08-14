@@ -1,0 +1,23 @@
+{
+  "Mental Health": [
+    {"tema": "Depresi dan Kesedihan", "jumlah_dokumen": 3516, "persen_segmen": 13.19, "frasa": ["sambil menangis", "suka menangis", "makan sambil", "menangis sendiri"], "relevansi_klinis": 4, "kejelasan_label": 4},
+    {"tema": "Depresi dan Kesedihan", "jumlah_dokumen": 1837, "persen_segmen": 6.89, "frasa": ["baby blues", "depresi pasca", "kena baby", "kena depresi", "kelelahan mental"], "relevansi_klinis": 5, "kejelasan_label": 4},
+    {"tema": "Depresi dan Kesedihan", "jumlah_dokumen": 1167, "persen_segmen": 4.38, "frasa": ["diri sendiri", "jangan sampai", "meminta maaf", "adu nasib"], "relevansi_klinis": 2, "kejelasan_label": 2},
+    {"tema": "Tidak Terklasifikasi", "jumlah_dokumen": 926, "persen_segmen": 3.48, "frasa": ["peluk jauh", "hebat semangat", "semua hebat", "kalian semua"], "relevansi_klinis": null, "kejelasan_label": null},
+    {"tema": "Gangguan Tidur", "jumlah_dokumen": 873, "persen_segmen": 3.28, "frasa": ["tidur siang", "kurang tidur", "ikut tidur", "tidur nyenyak"], "relevansi_klinis": 4, "kejelasan_label": 5}
+  ],
+  "Finansial": [
+    {"tema": "Tekanan Finansial", "jumlah_dokumen": 650, "persen_segmen": 6.79, "frasa": ["rumah tangga", "keluarga berencana", "uang sendiri", "mengurus rumah"], "relevansi_klinis": 3, "kejelasan_label": 3},
+    {"tema": "Minimnya Dukungan", "jumlah_dokumen": 465, "persen_segmen": 4.86, "frasa": ["daerah jakarta", "allah tolong", "itang itung", "pulang sendiri"], "relevansi_klinis": 2, "kejelasan_label": 2},
+    {"tema": "Tidak Terklasifikasi", "jumlah_dokumen": 400, "persen_segmen": 4.18, "frasa": ["one day", "asli mana", "sayang semoga", "wae wes", "next papa"], "relevansi_klinis": null, "kejelasan_label": null},
+    {"tema": "Baby Blues dan Pasca Lahir", "jumlah_dokumen": 369, "persen_segmen": 3.86, "frasa": ["kasihan anaknya", "baby blues", "pejuang garis", "bertanggung jawab"], "relevansi_klinis": 3, "kejelasan_label": 2},
+    {"tema": "Tidak Terklasifikasi", "jumlah_dokumen": 333, "persen_segmen": 3.48, "frasa": ["usah dibujuk", "habis pikir", "naik gunung", "mencoba naik"], "relevansi_klinis": null, "kejelasan_label": null}
+  ],
+  "Support System": [
+    {"tema": "Gangguan Tidur", "jumlah_dokumen": 1362, "persen_segmen": 9.86, "frasa": ["tidur siang", "tengah malam", "kurang tidur", "disuruh tidur"], "relevansi_klinis": 3, "kejelasan_label": 5},
+    {"tema": "Dukungan Keluarga Besar", "jumlah_dokumen": 999, "persen_segmen": 7.23, "frasa": ["rumah sakit", "mama mertua", "rumah mertua", "sampai pulang"], "relevansi_klinis": 4, "kejelasan_label": 4},
+    {"tema": "Dukungan Suami", "jumlah_dokumen": 995, "persen_segmen": 7.20, "frasa": ["dapat suami", "kebaikan suami", "alhamdulillah suami", "peran suami"], "relevansi_klinis": 5, "kejelasan_label": 5},
+    {"tema": "Menyusui dan Nutrisi Bayi", "jumlah_dokumen": 746, "persen_segmen": 5.40, "frasa": ["air susu", "susu formula", "keluar air", "makanan pendamping"], "relevansi_klinis": 4, "kejelasan_label": 5},
+    {"tema": "Dukungan Keluarga Besar", "jumlah_dokumen": 581, "persen_segmen": 4.21, "frasa": ["keluarga kecil", "luar biasa", "bahagia for", "mama hebat"], "relevansi_klinis": 4, "kejelasan_label": 3}
+  ]
+}
