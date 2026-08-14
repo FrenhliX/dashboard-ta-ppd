@@ -1,5 +1,0 @@
-[
-  {"aspek": "Mental Health", "n_dokumen": 26648, "n_topik": 95, "outlier": 7, "coherence": 0.3743, "diversity": 0.8663, "silhouette": -0.0023},
-  {"aspek": "Finansial", "n_dokumen": 9571, "n_topik": 56, "outlier": 3, "coherence": 0.4197, "diversity": 0.9232, "silhouette": 0.0445},
-  {"aspek": "Support System", "n_dokumen": 13816, "n_topik": 70, "outlier": 3, "coherence": 0.3769, "diversity": 0.9286, "silhouette": 0.0072}
-]
