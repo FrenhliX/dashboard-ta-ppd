@@ -61,6 +61,10 @@ def get_validation():
     return load_json("validation.json")
 
 
+def get_model_comparison():
+    return load_json("model_comparison.json")
+
+
 # ---------------------------------------------------------------------------
 # Sumber checkpoint model asli: LOKAL (models/<folder>/checkpoint_best.pt)
 # ATAU Hugging Face Hub (HF_REPO_ID di .streamlit/secrets.toml / env var).
